@@ -28,5 +28,4 @@ setup(name='congress',
         'pyev',
         'dogfood'
         ),
-      install_requires = ('pyev',),
      )
